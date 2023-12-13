@@ -1,0 +1,1 @@
+A repository for storing learnings on Apache Kafka.
